@@ -1,0 +1,25 @@
+{
+  "name": "first_vitepress_website",
+  "version": "0.0.1",
+  "description": "vitepress website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanhongyu/first_vitepress-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanhongyu/first_vitepress-website/issues"
+  },
+  "homepage": "https://github.com/Hanhongyu/first_vitepress-website#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
