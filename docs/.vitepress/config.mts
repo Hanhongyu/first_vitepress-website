@@ -1,7 +1,7 @@
 /*
  * @Author: hhy
  * @Date: 2025-04-01 16:05:03
- * @LastEditTime: 2025-04-01 16:51:09
+ * @LastEditTime: 2025-04-01 19:39:17
  * @LastEditors: hhy
  * @Description: 
  * @FilePath: \first_vitepress_website\docs\.vitepress\config.mts
@@ -13,7 +13,7 @@ export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
   srcDir: 'src',
-  base: '/first_vitepress_website/',
+  // base: '/first_vitepress_website/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
